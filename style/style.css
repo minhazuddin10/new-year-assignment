@@ -1,0 +1,22 @@
+/* header section background images and Text */
+*{
+    margin: 0;
+}
+.header-section{
+    margin: 50px 100px;
+}
+
+.home-background{
+    background-image: url("../images/Banner\ Image.png");
+    text-align: center;
+    padding: 150px;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+       
+}
+
+.discount-section{
+    margin: 20px 50px;
+    text-align: center;
+    font-weight: 800;
+}
